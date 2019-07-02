@@ -1,15 +1,10 @@
-# Technical Documentation
+# Digital Shared Services Developer Docs
 
-This project uses the [Tech Docs Template][template], which is a [Middleman template][mmt] that you can use to build technical documentation using a GOV.UK style.
+## Technical Documentation
 
-You’re welcome to use the template even if your service isn’t considered part of GOV.UK, but your site or service must not:
+This project uses the [DSS Tech Docs Template][template], which is a [Middleman template][mmt] that you can use to build technical documentation using a NICS Digital Shared Services style. It is based on the GOV.UK Tech Docs Template with a modified tech-docs-gem to implement the required style changes.
 
-- identify itself as being part of GOV.UK
-- use the crown or GOV.UK logotype in the header
-- use the GDS Transport typeface
-- suggest that it’s an official UK government website if it’s not
-
-👉 To find out more about setting up and managing content for a website using this template, see the [Tech Docs Template documentation][tdt-docs].
+👉 To find out more about setting up and managing content for a website using this template, see the  [GOV.UK Tech Docs Template documentation][tdt-docs].
 
 ## Before you start
 
@@ -81,5 +76,5 @@ The documentation is [© Crown copyright][copyright] and available under the ter
 [partials]: https://tdt-documentation.london.cloudapps.digital/single_page.html#add-partial-lines
 [install-ruby]: https://tdt-documentation.london.cloudapps.digital/install_macs.html#install-ruby
 [install-middleman]: https://tdt-documentation.london.cloudapps.digital/install_macs.html#install-middleman
-[gem]: https://github.com/alphagov/tech-docs-gem
-[template]: https://github.com/alphagov/tech-docs-template
+[gem]: https://github.com/dof-dss/tech-docs-gem
+[template]: https://github.com/dof-dss/tech-docs-template

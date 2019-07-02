@@ -3,7 +3,7 @@ host: public-cloud-manual.london.cloudapps.digital
 
 # Header-related options
 show_govuk_logo: false
-service_name: Public Cloud Manual
+service_name: DSS Public Cloud Manual
 service_link: /
 phase: Internal
 

@@ -1,4 +1,4 @@
-# Digital Shared Services Developer Docs
+# Digital Shared Services Public Cloud Manual
 
 ## Technical Documentation
 
